@@ -11,29 +11,24 @@ pip3 install nextcord
 Go to discord developer portal: https://discord.com/developers/docs/getting-started
 
 **Start creating an app**
-![Step 1](assets/image.png)
+- Get started and Create app. Customize your application by naming it with your preferences and adding an icon.
 
-**Authorize the following controls:**
-![Alt text](assets/image-1.png)
-![Alt text](assets/image-2.png)
-![Alt text](assets/image-3.png)
+**Enable the following controls:**
+- Public Bot under Authorization Flow
+- Presence Intent
+- Message Content Intent
 
 **Saved changes and copy the token:**
+
 ![Alt text](assets/image-4.png)
 
 ## **Cat API** 😺
 Go to this link: https://thecatapi.com/
 
 **Get your API Key:**
-![Alt text](assets/image-5.png)
-
-**Sign up for free:**
-![Alt text](assets/image-6.png)
+- Select the button 'GET API KEY' and select your subscription-- Free one will do.
 
 **Fill out your details:**
-![Alt text](assets/image-7.png)
-
-**There will be an email sent to your address:**
-![Alt text](assets/image-9.png)
+- Fll out your email address including the additional information. After signing up, the API key will be sent in your email.
 
 Replace the missing token and api in the code and your done. 🐈👌
