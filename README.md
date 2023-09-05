@@ -6,6 +6,10 @@ Cat Gifs Generator is a discord bot that returns an images or gifs related with 
 ```python
 pip3 install nextcord
 ```
+---- or 
+```python
+pip install nextcord
+```
 
 ## **Discord token** 🐈⚫
 Go to discord developer portal: https://discord.com/developers/docs/getting-started
@@ -29,9 +33,9 @@ Go to this link: https://thecatapi.com/
 - Select the button 'GET API KEY' and select your subscription-- Free one will do.
 
 **Fill out your details:**
-- Fll out your email address including the additional information. After signing up, the API key will be sent in your email.
+- Fill out your email address including the additional information. After signing up, the API key will be sent in your email.
 
 Replace the missing token and api in the code and your done. 🐈👌
 <br><br>
 
-***PS: This discord bot is not yet completed. Expect new updates and features in the future. -- Please considering contributing :>***
+***PS: This discord bot is not yet completed. Expect new updates and features in the future. -- Please consider contributing :>***
