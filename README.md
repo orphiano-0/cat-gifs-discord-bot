@@ -32,3 +32,6 @@ Go to this link: https://thecatapi.com/
 - Fll out your email address including the additional information. After signing up, the API key will be sent in your email.
 
 Replace the missing token and api in the code and your done. 🐈👌
+<br><br>
+
+***PS: This discord bot is not yet completed. Expect new updates and features in the future. -- Please considering contributing :>***
